@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSource {
-
+    //Screen 1
     @IBOutlet weak var doneToolBar: UIToolbar!
     @IBOutlet weak var textField1: UITextField!
     @IBOutlet weak var textField2: UITextField!

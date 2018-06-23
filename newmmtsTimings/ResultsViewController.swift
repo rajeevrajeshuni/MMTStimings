@@ -10,6 +10,7 @@ import UIKit
 import Foundation
 
 class ResultsViewController:UITableViewController{
+    //Screen 2
     var from:Int = -1
     var to:Int  = -1
     var timings:[String] = [];
